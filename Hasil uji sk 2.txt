@@ -1,0 +1,9 @@
+========================================================================================================================
+Nama Mahasiswa | Jenis Kegiatan | Peringkat Juara | Status PKM  | Jumlah Dokumen | Status & Alasan
+------------------------------------------------------------------------------------------------------------------------
+Jokowi         | PKM            | -               | 1 (Lolos)   | 4 / 4          | Berhak memperoleh dana penghargaan.
+Loli           | BELMAWA        | Juara 1         | -           | 3 / 4          | Dokumen tidak lengkap (kurang 1 dokumen). 
+               |                |                 |             |                | Dana penghargaan tidak diberikan.
+Adi            | MANDIRI        | Juara 1         | -           | 1 / 4          | Dokumen tidak lengkap (kurang 3 dokumen). 
+               |                |                 |             |                | Dana penghargaan tidak diberikan.
+========================================================================================================================
